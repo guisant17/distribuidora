@@ -102,6 +102,13 @@ body {
   background-color: var(--bs-body-bg);
   -webkit-text-size-adjust: 100%;
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+ 
+ text-align: left;
+ 
+ 
+     
+      
+  
 }
 
 hr {
@@ -528,8 +535,8 @@ progress {
   font-size: calc(1.475rem + 2.7vw);
   font-weight: 300;
   line-height: 1.2;
-  max-width: 740px;
-  min-width: 360px;
+  max-width: 730px;
+  min-width: 296px;
   margin: auto;
   text-align: center;
   width: 50vw;
@@ -3788,6 +3795,8 @@ textarea.form-control-lg {
   color: var(--bs-navbar-brand-color);
   text-decoration: none;
   white-space: nowrap;
+  max-width: 740;
+  min-width: 360;
 }
 .navbar-brand:hover, .navbar-brand:focus {
   color: var(--bs-navbar-brand-hover-color);
@@ -8142,6 +8151,7 @@ textarea.form-control-lg {
 .bg-primary {
   --bs-bg-opacity: 1;
   background-color: rgba(var(--bs-primary-rgb), var(--bs-bg-opacity)) !important;
+  
 }
 
 .bg-secondary {
