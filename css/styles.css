@@ -10858,9 +10858,11 @@ textarea.form-control-lg {
 
 
 @media screen and (max-width: 768px) {
-  .container{
-    display: block;
-    background-image: none;
+  .banner{
+    max-width: 320px;
+    min-width: 270px;
+    text-align: left;
+    
   }
   .container__imagem {
     width: 50vw;
