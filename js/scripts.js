@@ -1,7 +1,1 @@
-/*!
-* Start Bootstrap - Shop Homepage v5.0.6 (https://startbootstrap.com/template/shop-homepage)
-* Copyright 2013-2023 Start Bootstrap
-* Licensed under MIT (https://github.com/StartBootstrap/startbootstrap-shop-homepage/blob/master/LICENSE)
-*/
-// This file is intentionally blank
-// Use this file to add JavaScript to your project
+<a href="https://www.webcontadores.com" title="contador de visitas"> <img src="https://counter6.optistats.ovh/private/webcontadores.php?c=eje5jf3edz47jfclnwhcg1pkehfpygr1" border="0" title="contador de visitas" alt="contador de visitas"></a>
